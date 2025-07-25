@@ -1,135 +1,306 @@
-
+<!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hasan%20Torpil&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:EC4899&height=300&section=header&text=Hasan%20Torpil&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&stroke=8B5CF6&strokeWidth=3&desc=Full%20Stack%20Developer%20%7C%20Angular%20Specialist&descAlignY=60&descSize=25"/>
 </div>
 
+<!-- Animated Typing with Gradient Background -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+%F0%9F%92%BB;4%2B+Years+Experience+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular;Modern+Web+Applications+%F0%9F%8C%90&font=Fira%20Code&center=true&width=440&height=45&color=2196F3&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full+Stack+Developer;⚡+Angular+%2B+.NET+Expert;💻+4%2B+Years+Experience;🎯+Building+Enterprise+Solutions;🔥+Modern+Web+Applications&font=Fira%20Code&center=true&width=600&height=60&color=gradient&multiline=true&duration=3000&pause=1000&size=28" />
 </div>
 
-## 🚀 About Me
-
-**Mid-Level Frontend Developer** specializing in modern web applications with **4+ years of professional experience**. I craft responsive, performant user interfaces using React, Next.js, and Angular. **Passionate about creating exceptional user experiences, clean code architecture, and staying current with frontend trends**.
-
-- 🔭 Currently working on **Next.js 14 with App Router and Server Components**
-- 🌱 Learning **React Native and Advanced TypeScript patterns**
-- 👯 Open to collaborate on **innovative frontend projects**
-- 💬 Ask me about **React, Next.js, Angular, TypeScript, State Management**
-- ⚡ Fun fact: **I love optimizing web performance and achieving perfect Lighthouse scores**
-
-## 🛠️ Technology Stack
-
+<!-- Social Links Bar with Animation -->
 <div align="center">
-
-### Frontend Frameworks & Libraries
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### UI & Styling
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
-[![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
-[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-### State Management & Tools
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://zustand-demo.pmnd.rs/)
-[![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)](https://tanstack.com/query)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-
-### Backend (Working Knowledge)
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-
+  <a href="https://linkedin.com/in/hasantorpil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hasan.torpil@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email" />
+  </a>
+  <a href="https://hasantorpil.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722&color=FF5722" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/hasantorpil">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
+  </a>
 </div>
 
+<br>
+
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,materialui,sass,redux,graphql,webpack,vite,nodejs,python,django&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=hasantorpil&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/hasantorpil?style=for-the-badge&color=0891b2&labelColor=1c1b19&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/hasantorpil?style=for-the-badge&color=fbbf24&labelColor=1c1b19&label=TOTAL+STARS" />
 </div>
 
-## 📊 GitHub Statistics
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasantorpil&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasantorpil&layout=compact&theme=radical&hide_border=true"/>
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hasantorpil&theme=radical&hide_border=true" />
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasantorpil&theme=radical&hide_border=true" />
-</div>
+**Senior Full Stack Developer** with **4+ years** crafting enterprise-grade applications. Specialized in **Angular ecosystems** and **.NET architectures**, building scalable solutions that power modern businesses.
 
-## 💼 Featured Projects
+### 🎯 Current Focus
+- 🔭 Building **microservices architecture** with Angular 17 & .NET 8
+- 🚀 Implementing **real-time features** using SignalR & WebSockets
+- 🎨 Creating **stunning UIs** with Angular Material & Tailwind CSS
+- 📊 Developing **data-intensive dashboards** for enterprise clients
+- 🔒 Architecting **secure authentication** systems with JWT & OAuth2
 
-<div align="center">
+### 💡 Quick Facts
+```typescript
+const developer = {
+  name: "Hasan Torpil",
+  role: "Full Stack Developer",
+  experience: "4+ years",
+  specialization: ["Angular", ".NET", "Enterprise Solutions"],
+  currentlyLearning: ["Kubernetes", "Microservices", "Cloud Architecture"],
+  funFact: "Can debug faster than compile time ⚡"
+};
+```
 
-### 🛍️ [E-Commerce Platform](https://github.com/hasantorpil/ecommerce-platform)
-**Next.js 14 + TypeScript + Tailwind CSS + Stripe**  
-Modern e-commerce platform with SSR/SSG, optimized performance, and seamless checkout experience.  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](https://demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hasantorpil/ecommerce-platform)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 [Analytics Dashboard](https://github.com/hasantorpil/analytics-dashboard)
-**React + TypeScript + Redux Toolkit + Chart.js**  
-Interactive business analytics dashboard with real-time data visualization and responsive design.  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-green?style=for-the-badge)](https://demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hasantorpil/analytics-dashboard)
-
-### 🎨 [Design System](https://github.com/hasantorpil/design-system)
-**React + Storybook + Styled Components**  
-Comprehensive component library with accessibility features and dark mode support.  
-[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook-link.com) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hasantorpil/design-system)
-
-### 📱 [SaaS Landing Page](https://github.com/hasantorpil/saas-landing)
-**Next.js + Framer Motion + Tailwind CSS**  
-High-converting landing page with smooth animations and perfect Lighthouse scores.  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-purple?style=for-the-badge)](https://demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hasantorpil/saas-landing)
-
-</div>
-
-## 📈 Experience Highlights
-
-- **4+ years** building responsive, accessible web applications
-- **Expert level** in React ecosystem and modern frontend tools
-- **Performance optimization** achieving 95+ Lighthouse scores
-- **Component architecture** design for large-scale applications
-- **Cross-browser compatibility** and responsive design expertise
-- **Agile/Scrum** experience with strong collaboration skills
-
-## 🏆 Achievements & Skills
-
-- ✅ Built and maintained 15+ production React/Next.js applications
-- ✅ Reduced bundle sizes by 60% through code splitting and lazy loading
-- ✅ Implemented micro-frontend architecture for enterprise applications
-- ✅ Created reusable component libraries used by 50+ developers
-- ✅ Strong experience with SEO optimization and Core Web Vitals
-- ✅ Expertise in modern CSS techniques (Grid, Flexbox, Container Queries)
-
-## 🌐 Connect With Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasantorpil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasan.torpil@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hasantorpil.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hasantorpil)
+### 🎨 Frontend Mastery
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" />
+</p>
+
+### ⚙️ Backend Power
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🎨 UI/UX & Styling
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeNG-0288D1?style=for-the-badge&logo=primeng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+### 🗄️ Database & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
 
 </div>
 
+<!-- Animated Tech Stack Icons -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasantorpil&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,cs,dotnet,python,django,postgresql,mongodb,redis,azure,docker,git,vscode&theme=dark&perline=8" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Featured Projects
+
+<div align="center">
+
+### 🏢 Enterprise Resource Planning System
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=.net&logoColor=white" />
+</div>
+
+**Comprehensive ERP solution** serving 500+ concurrent users with real-time data synchronization, modular architecture, and role-based access control.
+
+<div align="center">
+  <a href="https://github.com/hasantorpil/erp-system">
+    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://demo-erp.com">
+    <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
 ---
 
+### 🛒 E-Commerce Platform
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+</div>
+
+**High-performance e-commerce platform** with microservices architecture, handling 10K+ daily transactions with 99.9% uptime.
+
+<div align="center">
+  <a href="https://github.com/hasantorpil/ecommerce-platform">
+    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://demo-shop.com">
+    <img src="https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=shopify&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 📊 Real-Time Analytics Dashboard
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=socket.io&logoColor=white" />
+</div>
+
+**Interactive analytics platform** with real-time data visualization, custom reporting engine, and export capabilities.
+
+<div align="center">
+  <a href="https://github.com/hasantorpil/analytics-dashboard">
+    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🏥 Healthcare Management System
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/FHIR-215732?style=flat-square&logo=hl7&logoColor=white" />
+</div>
+
+**HIPAA-compliant healthcare platform** managing patient records, appointments, and billing for 50+ clinics.
+
+<div align="center">
+  <a href="https://github.com/hasantorpil/healthcare-system">
+    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasantorpil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasantorpil&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasantorpil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasantorpil&theme=tokyonight&utcOffset=3" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hasantorpil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
+</div>
+
+<!-- Trophy Section -->
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=hasantorpil&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+### 🎖️ Professional Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Certified:_Azure_Developer_Associate-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_Expert_Developer-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Professional_Developer-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+### 🌟 Key Achievements
+- ⚡ **Performance Wizard**: Optimized Angular apps achieving 98+ Lighthouse scores
+- 🏗️ **Architecture Expert**: Designed microservices handling 1M+ requests/day
+- 🔒 **Security Champion**: Implemented OAuth2/JWT auth for enterprise clients
+- 📈 **Scaling Master**: Reduced API response time by 70% through optimization
+- 🎯 **Team Leader**: Led 5+ developers in Agile/Scrum environment
+- 🚀 **Innovation Driver**: Introduced CI/CD pipelines reducing deployment time by 80%
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+Angular      15 hrs 42 mins  ████████████░░░░░░░  58.3%
+TypeScript   8 hrs 15 mins   ███████░░░░░░░░░░░░  30.7%
+C#           2 hrs 30 mins   █████░░░░░░░░░░░░░░  9.3%
+HTML/CSS     27 mins         ███░░░░░░░░░░░░░░░░  1.7%
+```
+<!--END_SECTION:waka-->
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/hasantorpil">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hasan.torpil@email.com">
+    <img src="https://img.shields.io/badge/Email_me_for_collaborations-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hasantorpil.dev">
+    <img src="https://img.shields.io/badge/Check_out_my_portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/hasantorpil/hasantorpil/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<!-- Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 </div>
