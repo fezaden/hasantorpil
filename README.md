@@ -212,30 +212,6 @@ const developer = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasantorpil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasantorpil&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasantorpil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasantorpil&theme=tokyonight&utcOffset=3" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hasantorpil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
-</div>
-
-<!-- Trophy Section -->
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=hasantorpil&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements & Certifications
 
