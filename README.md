@@ -43,7 +43,7 @@
 **Senior Full Stack Developer** with **4+ years** crafting enterprise-grade applications. Specialized in **Angular ecosystems** and **.NET architectures**, building scalable solutions that power modern businesses.
 
 ### 🎯 Current Focus
-- 🔭 Building **microservices architecture** with Angular 17 & .NET 8
+- 🔭 Building **microservices architecture** with Angular 20 & .NET 9
 - 🚀 Implementing **real-time features** using SignalR & WebSockets
 - 🎨 Creating **stunning UIs** with Angular Material & Tailwind CSS
 - 📊 Developing **data-intensive dashboards** for enterprise clients
